@@ -1,4 +1,4 @@
-# Zuri-wk-5---6/
+# Carousel/
 
 This is Carousel Slide show with 6 different images about Nigerian Currency
 
